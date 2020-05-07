@@ -1,4 +1,4 @@
-name: trial
+name: analysis
 channels:
   - conda-forge
 dependencies:
@@ -9,4 +9,3 @@ dependencies:
   - numpy
   - matplotlib
   - lmfit
-  - theano
