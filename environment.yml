@@ -1,0 +1,12 @@
+name: trial
+channels:
+  - conda-forge
+dependencies:
+  - root
+  - pip
+  - uproot
+  - pandas
+  - numpy
+  - matplotlib
+  - lmfit
+  - theano
